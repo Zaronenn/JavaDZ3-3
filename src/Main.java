@@ -15,7 +15,7 @@ public class Main {
         System.out.println(service.calculate(1_000_000, 2, 9.99));
 
         System.out.println();
-        System.out.println("Миллион на 10 лет");
+        System.out.println("Миллион на 8 лет");
         System.out.println(service.calculate(1_000_000, 8, 9.99));
 
         System.out.println();
